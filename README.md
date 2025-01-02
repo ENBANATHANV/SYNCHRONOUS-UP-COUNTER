@@ -1,6 +1,6 @@
 ### NAME : V.ENBANATHAN
 ### REG NO : 24001750
-# EXPERIMENT-7 : SYNCHRONOUS-UP-COUNTER
+# EXPERIMENT-7 : IMPLEMENTATION OF SYNCHRONOUS-UP-COUNTER
 # AIM:
 
 To implement 4 bit synchronous up counter and validate functionality.
