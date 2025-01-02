@@ -92,7 +92,8 @@ endmodule
 ![Screenshot (146)](https://github.com/user-attachments/assets/6eb2f1e3-9973-415a-aecf-236bc6c4ff50)
 
 # WAVEFORM OUTPUT
-![Screenshot (147)](https://github.com/user-attachments/assets/cda42e20-ae47-42e5-b7e6-250eb4f5fa6e)
+![enbanathan](https://github.com/user-attachments/assets/c2fa5ba8-df9f-44d3-9e43-b0e0d51b1848)
+
 
 
 
